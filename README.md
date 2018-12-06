@@ -4,5 +4,5 @@
 ### Steam Launch Options
 
 ```
--novid -freq 144 -refresh 144 -tickrate 128 -nojoy -nod3d9ex +exec autoexec.cfg
+-novid -freq 240 -refresh 240 -tickrate 128 -nojoy -nod3d9ex +mat_queue_mode 2 +exec autoexec.cfg
 ```
